@@ -1,4 +1,6 @@
+// 144. Binary Tree Preorder Traversal: Easy
 // root -> left -> right
+// recursion straightforward
 
 const preorderTraversal = (root) => {
   let output = [];

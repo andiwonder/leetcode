@@ -1,10 +1,10 @@
 /* 
-
 	the main idea is to perform in-order (left -> root -> right) traversal
 	compare prev to current, should be current > prev
 	not optimal
-
 */
+
+// 98. Validate Binary Search Tree
 
 
 var isValidBST = function(root) {

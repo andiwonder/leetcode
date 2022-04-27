@@ -1,3 +1,6 @@
+// 1. Two Sum : Easy
+// use map to store diff for each element, and the map[diff] = index
+
 var twoSum = function(nums, target) {
   let map = {};
    
